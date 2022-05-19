@@ -1,0 +1,15 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weslleyhigor/desenvolve2022-Alura.git\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C/9semana/projeto -nodejs-rest.git"
+  },
+  "author": "Higor",
+  "license": "ISC"
+}
